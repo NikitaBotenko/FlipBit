@@ -54,6 +54,7 @@ public class Main {
         System.out.println(y);
         long z = 3 <<1;
         System.out.println(z);
+        System.out.println("d,lr;g");
 
 
     }
