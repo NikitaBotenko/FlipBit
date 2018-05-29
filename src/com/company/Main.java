@@ -7,6 +7,7 @@ public class Main {
         int sdvig = number << bitIndex;
         int result = number ^ sdvig;
         return result;
+
 //        String t = Integer.toBinaryString(number);
 //        long num = Long.parseLong(t);
 //        long num2 = num<<bitIndex;
@@ -54,7 +55,6 @@ public class Main {
         System.out.println(y);
         long z = 3 <<1;
         System.out.println(z);
-        System.out.println("d,lr;g");
 
 
     }
